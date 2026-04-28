@@ -1,51 +1,45 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdelrhman%20Rabie&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI-Powered%20Workflow&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:FFE66D,100:4ECDC4&height=220&section=header&text=Abdelrhman%20Rabie&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Building+Products+That+Ship+to+Production;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;AI-Powered+Dev+%E2%80%94+Claude+%26+GitHub+Copilot;Salla+Platform+%7C+E-Commerce+%7C+ERP+Systems;Always+Learning.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=🚀+Building+Products+That+Ship+to+Production;⚡+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;🛒+Salla+Platform+%7C+E-Commerce+%7C+ERP+Systems;💡+Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdelrhman-rabie/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://rabie3.me">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:Abdelrhman.mohamed.rabie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/+201011676929">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/abdelrhman-rabie/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://rabie3.me">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:Abdelrhman.mohamed.rabie@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/+201011676929">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=for-the-badge&color=FF6B6B&label=VIEWS"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👋 Who Am I?
 
 ```ts
 const abdelrhman = {
-  role        : "Full-Stack Developer (MERN)",
-  location    : "Cairo, Egypt 🇪🇬",
-  current     : "Software Engineer @ Qusah Stores",
-  experience  : "1+ year professional | 2+ years total",
-  education   : "B.Sc. Electronics & Communications Engineering — Mansoura University (88.67% Honors)",
-  focus       : ["React", "Next.js", "Node.js", "TypeScript", "ERP Systems", "Salla Platform"],
-  aiWorkflow  : ["GitHub Copilot", "Claude"],
-  languages   : { arabic: "Native", english: "Upper-Intermediate" },
-  motto       : "I don't just write code — I ship products.",
+  title      : "Full-Stack Developer (MERN)",
+  location   : "Cairo, Egypt 🇪🇬",
+  working_at : "Qusah Stores — Software Engineer",
+  experience : "1+ year professional · 2+ years total",
+  education  : "B.Sc. Electronics & Comm. Engineering · Mansoura University · 88.67% Honors 🏆",
+  focus      : ["React", "Next.js", "Node.js", "TypeScript", "ERP", "Salla Platform"],
+  languages  : { arabic: "Native 🇪🇬", english: "Upper-Intermediate 🌍" },
+  motto      : "I don't just write code — I ship products. 🚀",
 };
 ```
 
@@ -53,7 +47,7 @@ const abdelrhman = {
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,41 +58,41 @@ const abdelrhman = {
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### Database & Cloud
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Dev Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+### 🛒 E-Commerce
+![Salla](https://img.shields.io/badge/Salla_Platform-1DBF73?style=for-the-badge&logoColor=white)
+
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### E-Commerce Platforms
-![Salla](https://img.shields.io/badge/Salla_Platform-25D366?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [**Thimar**](https://thimarln.com/ar) | Bilingual (AR/EN) full-stack marketing platform | Next.js, Node.js, MongoDB, Tailwind | 🟢 Live |
-| [**DrCorp**](https://drcorp.co/ar) | Bilingual (AR/EN) full-stack company website | Next.js, Node.js, MongoDB, Tailwind | 🟢 Live |
-| [**EasyLink**](https://www.easylink-ksa.com/) | High-performance responsive company platform | Next.js, Node.js, MongoDB, Tailwind | 🟢 Live |
-| [**Sales Hero**](https://sales-hero-fe.vercel.app) | Sales management dashboard with real-time analytics | React, Chart.js, React Query, Zustand | 🟢 Live |
-| [**Df3a**](https://github.com/AbdelrhmanRabie3/Df3a) | Mentorship platform — real-time chat, video sessions & AI integration | React, Socket.IO, LiveKit, Node.js | 🔵 Demo |
-| [**Fresh Cart**](https://github.com/AbdelrhmanRabie3/FreshCart) | E-commerce app with Stripe payment integration | React, Axios, Stripe API, Formik | 🔵 Demo |
-| [**Together**](https://github.com/AbdelrhmanRabie3/Together) | Social media web app | React, Firebase, Shadcn/ui | 🔵 Demo |
-| [**GameHaven API**](https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API) | Marketplace REST API with full RBAC | Node.js, Express, MongoDB, JWT | 🔵 Repo |
+| 🌟 Project | 💡 What It Does | 🔧 Stack | 🔗 |
+|-----------|----------------|---------|-----|
+| **Thimar** | Bilingual AR/EN full-stack marketing platform | Next.js · Node.js · MongoDB | [🟢 Live](https://thimarln.com/ar) |
+| **DrCorp** | Bilingual AR/EN full-stack company website | Next.js · Node.js · MongoDB | [🟢 Live](https://drcorp.co/ar) |
+| **EasyLink** | High-performance responsive company platform | Next.js · Node.js · MongoDB | [🟢 Live](https://www.easylink-ksa.com/) |
+| **Sales Hero** | Sales dashboard with real-time analytics & charts | React · Chart.js · React Query · Zustand | [🟢 Live](https://sales-hero-fe.vercel.app) |
+| **Df3a** | Mentorship platform — real-time chat, video & AI | React · Socket.IO · LiveKit · Node.js | [🔵 Repo](https://github.com/AbdelrhmanRabie3/Df3a) |
+| **Fresh Cart** | E-commerce app with Stripe payment integration | React · Axios · Stripe · Formik | [🔵 Repo](https://github.com/AbdelrhmanRabie3/FreshCart) |
+| **Together** | Social media web app | React · Firebase · Shadcn/ui | [🔵 Repo](https://github.com/AbdelrhmanRabie3/Together) |
+| **GameHaven API** | Marketplace REST API with full RBAC | Node.js · Express · MongoDB · JWT | [🔵 Repo](https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API) |
 
 ---
 
@@ -106,31 +100,42 @@ const abdelrhman = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanRabie3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanRabie3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanRabie3&show_icons=true&theme=radical&hide_border=true&hide=stars,issues,prs&count_private=true&include_all_commits=true&custom_title=Total+Commits+%26+Activity" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanRabie3&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Top+Languages" height="165"/>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanRabie3&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Experience Highlights
+## 💼 Experience Timeline
 
-- 🏢 **Software Engineer @ Qusah Stores** *(Jan 2026 – Present)* — ERP solutions, Salla platform development, React/Next.js
-- 🏢 **Full-Stack Developer @ DrCorp** *(Aug 2025 – Jan 2026)* — Bilingual production platforms, API design, SEO optimization
-- 🎓 **MERN Stack Track Leader @ ITI Mansoura** *(Feb – Jul 2025)* — Led a cohort of developers through intensive MERN training
-- 🎓 **ITI Full-Stack Web Development (MERN)** *(Feb – Jul 2025)*
-- 📜 **Front-End Diploma @ Route Academy** *(Sep 2024 – Feb 2025)*
+```
+🟥 Jan 2026 → Now        Software Engineer @ Qusah Stores
+                          React · Next.js · Node.js · ERP · Salla Platform
+
+🟧 Aug 2025 → Jan 2026   Full-Stack Developer @ DrCorp
+                          Next.js · Node.js · REST APIs · SEO
+
+🟨 Feb 2025 → Jul 2025   MERN Stack Track Leader @ ITI Mansoura
+                          Led a developer cohort through intensive MERN training
+
+🟩 Sep 2024 → Feb 2025   Front-End Diploma @ Route Academy
+
+🟦 2019 → 2024            B.Sc. Electronics & Comm. Engineering
+                          Mansoura University · 88.67% Excellent with Honors 🏆
+```
 
 ---
 
 <div align="center">
+
+### 💬 My Motto
 
 > **"I don't just write code — I ship products that work in production."** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FFE66D,100:FF6B6B&height=130&section=footer" width="100%"/>
 
 </div>
