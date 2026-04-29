@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%20there!%20I'm%20Abdelrhman%20%F0%9F%91%8B&fontSize=36&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20from%20Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=55&descColor=ffffff&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=210&section=header&text=Abdelrhman%20Rabie&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=56&descColor=58a6ff&descSize=17"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=e94560&center=true&vCenter=true&width=480&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+ERP+%26+E-Commerce+Solutions;Salla+Platform+Developer;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=560&lines=I+build+things+for+the+web.;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+idea+to+production+%E2%80%94+end+to+end.;Clean+code.+Real+products.+Shipped.+%F0%9F%9A%80" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://rabie3.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-rabie3.me-e94560?style=flat-square&labelColor=1a1a2e"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-rabie3.me-58a6ff?style=flat-square&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdelrhman-rabie/" target="_blank">
@@ -27,25 +27,32 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=flat-square&color=e94560&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=flat-square&color=58a6ff&label=Profile+Views"/>
 </div>
 
 ---
 
-### 💻 About Me
+### 🧠 Who Am I?
 
 ```typescript
 const abdelrhman = {
-  role        : "Full-Stack Developer (MERN)",
-  company     : "Software Engineer @ Qusah Stores",
+  title       : "Full-Stack Developer",
   location    : "Cairo, Egypt 🇪🇬",
-  experience  : "1+ yr professional | 2+ yrs total",
-  education   : "B.Sc. ECE — Mansoura University | 88.67% Honors 🏆",
+  company     : "Software Engineer @ Qusah Stores",
+  experience  : "1+ yr professional · 2+ yrs total",
+  education   : "B.Sc. ECE — Mansoura University · 88.67% Honors 🏆",
+
   stack       : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
-  specialty   : ["ERP Systems", "Salla Platform", "E-Commerce"],
-  currentlyLearning : "NestJS & System Design",
-  funFact     : "I debug in production and survive 😅",
-  motto       : "I don't just write code — I ship products.",
+
+  approach    : [
+    "I don't wait to be told what to build — I figure it out.",
+    "I own features end-to-end: UI, API, DB, deployment.",
+    "Give me a problem. I'll ship a solution.",
+  ],
+
+  currentlyLearning : "NestJS · System Design · Advanced Patterns",
+  funFact           : "I've debugged things I didn't break. Twice.",
+  motto             : "Whatever the stack — I get it done.",
 };
 ```
 
@@ -84,27 +91,25 @@ const abdelrhman = {
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Things I've Shipped
 
-| Project | Description | Stack | Link |
+| Project | What It Does | Stack | Link |
 |--------|-------------|-------|------|
-| **Thimar** | Bilingual AR/EN full-stack company platform | Next.js · Node.js · MongoDB | [🔗 Live](https://thimarln.com/ar) |
-| **DrCorp** | Bilingual AR/EN full-stack company website | Next.js · Node.js · MongoDB | [🔗 Live](https://drcorp.co/ar) |
-| **EasyLink** | High-performance responsive platform | Next.js · Node.js · MongoDB | [🔗 Live](https://www.easylink-ksa.com/) |
-| **Sales Hero** | Sales dashboard with real-time analytics | React · Chart.js · React Query · Zustand | [🔗 Live](https://sales-hero-fe.vercel.app) |
-| **Df3a** | Mentorship platform — chat, video sessions & AI | React · Socket.IO · LiveKit · Node.js | [🔗 Repo](https://github.com/AbdelrhmanRabie3/Df3a) |
-| **Fresh Cart** | E-commerce with Stripe payment integration | React · Axios · Stripe API | [🔗 Repo](https://github.com/AbdelrhmanRabie3/FreshCart) |
+| **Thimar** | Bilingual AR/EN full-stack web platform | Next.js · Node.js · MongoDB | [🔗 Live](https://thimarln.com/ar) |
+| **DrCorp** | Bilingual AR/EN full-stack web platform | Next.js · Node.js · MongoDB | [🔗 Live](https://drcorp.co/ar) |
+| **EasyLink** | High-performance responsive web platform | Next.js · Node.js · MongoDB | [🔗 Live](https://www.easylink-ksa.com/) |
+| **Sales Hero** | Real-time sales dashboard & analytics | React · Chart.js · React Query · Zustand | [🔗 Live](https://sales-hero-fe.vercel.app) |
+| **Df3a** | Real-time mentorship — chat, video & AI | React · Socket.IO · LiveKit · Node.js | [🔗 Repo](https://github.com/AbdelrhmanRabie3/Df3a) |
+| **Fresh Cart** | E-commerce with Stripe payment | React · Axios · Stripe API | [🔗 Repo](https://github.com/AbdelrhmanRabie3/FreshCart) |
 | **Together** | Social media web app | React · Firebase · Shadcn/ui | [🔗 Repo](https://github.com/AbdelrhmanRabie3/Together) |
-| **GameHaven API** | Marketplace REST API with full RBAC | Node.js · Express · MongoDB · JWT | [🔗 Repo](https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API) |
+| **GameHaven API** | REST marketplace API with full RBAC | Node.js · Express · MongoDB · JWT | [🔗 Repo](https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanRabie3&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Top%20Languages&title_color=e94560" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanRabie3&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Top%20Languages&title_color=58a6ff" height="160"/>
 </div>
 
 <div align="center">
@@ -113,37 +118,32 @@ const abdelrhman = {
 
 ---
 
-### 🏢 Experience
+### 🏢 Timeline
 
 ```
-💼 Jan 2026 → Now        Software Engineer @ Qusah Stores
-                          React · Next.js · Node.js · ERP · Salla Platform
+💼  Jan 2026 → Now         Software Engineer @ Qusah Stores
 
-💼 Aug 2025 → Jan 2026   Full-Stack Developer @ DrCorp
-                          Next.js · Node.js · REST APIs · SEO
+💼  Aug 2025 → Jan 2026    Full-Stack Developer @ DrCorp
 
-🎓 Feb 2025 → Jul 2025   MERN Stack Track Leader @ ITI Mansoura
+🎓  Feb 2025 → Jul 2025    MERN Stack Track Leader @ ITI Mansoura
+                            Led a full developer cohort through intensive training
 
-🎓 Sep 2024 → Feb 2025   Front-End Diploma @ Route Academy
-
-🎓 2019 → 2024            B.Sc. Electronics & Communications Engineering
-                          Mansoura University — 88.67% Excellent with Honors 🏆
+🎓  2019 → 2024             B.Sc. Electronics & Communications Engineering
+                            Mansoura University — 88.67% Excellent with Honors 🏆
 ```
 
 ---
 
 <div align="center">
 
-**Code Cycle 😄**
+**The dev loop, as it really happens:**
 
-😵 *It's broken* &nbsp;&nbsp; → &nbsp;&nbsp; 😅 *Fixed it (no idea how)* &nbsp;&nbsp; → &nbsp;&nbsp; 😎 *Shipping to production*
-
-<br/>
-
-> *"I don't just write code — I ship products that work in production."*
+😵 Broken &nbsp;→&nbsp; 🤔 Thinking &nbsp;→&nbsp; 🔥 It's fine, it's fine &nbsp;→&nbsp; ☕ Coffee &nbsp;→&nbsp; 😎 Shipped
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+> *"Whatever the stack — I get it done."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
 
 </div>
