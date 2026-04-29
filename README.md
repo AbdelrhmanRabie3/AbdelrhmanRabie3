@@ -60,162 +60,175 @@ const abdelrhman = {
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/><br/>
+      <b>🎨 Frontend</b><br/>
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular&theme=dark"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,materialui,html&theme=dark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/><br/>
+      <b>⚙️ Backend & DB</b><br/>
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LiveKit-E84393?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RBAC-58a6ff?style=flat-square&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/><br/>
+      <b>🔧 Tools & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma&theme=dark"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Salla_Platform-00C853?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVC_Architecture-58a6ff?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-**Backend & Real-time**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-E84393?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Salla](https://img.shields.io/badge/Salla_Platform-00C853?style=flat-square&logoColor=white)
+</div>
 
 ---
 
 ### 🚀 Things I've Shipped
 
+<div align="center">
+
+<!-- Row 1: Live Projects -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://thimarln.com/ar">Thimar</a></h3>
-      <p>Bilingual AR/EN full-stack web platform built for performance, accessibility, and modern UX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      <h3 align="center">📊 Sales Hero</h3>
+      <div align="center">
+        <a href="https://sales-hero-fe.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🟢 LIVE-sales--hero--fe.vercel.app-28a745?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Sales management dashboard with real-time analytics, automated workflows, and intuitive data visualization.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
-      </p>
-      <a href="https://thimarln.com/ar">🟢 Live</a>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://drcorp.co/ar">DrCorp</a></h3>
-      <p>Bilingual AR/EN full-stack company website with focus on SEO, performance, and clean architecture.</p>
-      <p>
+      <h3 align="center">🌐 Thimar</h3>
+      <div align="center">
+        <a href="https://thimarln.com/ar" target="_blank">
+          <img src="https://img.shields.io/badge/🟢 LIVE-thimarln.com-28a745?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Bilingual AR/EN full-stack web platform built for performance, accessibility, and modern UX.</p>
+      <div align="center">
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
-      </p>
-      <a href="https://drcorp.co/ar">🟢 Live</a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://www.easylink-ksa.com/">EasyLink</a></h3>
-      <p>High-performance responsive web platform with modern UX and full API integration.</p>
-      <p>
+      <h3 align="center">🌐 DrCorp</h3>
+      <div align="center">
+        <a href="https://drcorp.co/ar" target="_blank">
+          <img src="https://img.shields.io/badge/🟢 LIVE-drcorp.co-28a745?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Bilingual AR/EN full-stack company website with focus on SEO, performance, and clean architecture.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 EasyLink</h3>
+      <div align="center">
+        <a href="https://www.easylink-ksa.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🟢 LIVE-easylink--ksa.com-28a745?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">High-performance responsive web platform with modern UX and seamless API integration.</p>
+      <div align="center">
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-      </p>
-      <a href="https://www.easylink-ksa.com/">🟢 Live</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://sales-hero-fe.vercel.app">Sales Hero</a></h3>
-      <p>Sales management dashboard with real-time analytics, charts, and automated workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://sales-hero-fe.vercel.app">🟢 Live</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/AbdelrhmanRabie3/Df3a">Df3a</a></h3>
-      <p>Mentorship platform with real-time chat, video sessions, session booking, workshops & AI integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LiveKit-E84393?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <a href="https://github.com/AbdelrhmanRabie3/Df3a">🔵 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/AbdelrhmanRabie3/FreshCart">Fresh Cart</a></h3>
-      <p>E-commerce web app with Stripe payment integration, protected routes, and cart management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://github.com/AbdelrhmanRabie3/FreshCart">🔵 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 <a href="https://github.com/AbdelrhmanRabie3/Together">Together</a></h3>
-      <p>Social media web app with real-time interactions and a modern UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://github.com/AbdelrhmanRabie3/Together">🔵 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API">GameHaven API</a></h3>
-      <p>REST marketplace API with full RBAC, file uploads, validation, and MVC architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Multer-FF6C37?style=flat-square&logoColor=white"/>
-      </p>
-      <a href="https://github.com/AbdelrhmanRabie3/GameHaven-Marketplace-API">🔵 Repo</a>
+      </div>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Row 2: Demo/Repo Projects -->
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🎓 Df3a — Mentorship Web Platform</h3>
+      <div align="center">
+        <a href="https://github.com/AbdelrhmanRabie3/Df3a" target="_blank">
+          <img src="https://img.shields.io/badge/🔵 REPO-github.com/AbdelrhmanRabie3/Df3a-0077B5?style=for-the-badge&labelColor=0d1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Full-stack web app connecting students with mentors — featuring real-time chat, live video sessions, session booking, workshops, and AI integration.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LiveKit-E84393?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Integration-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
