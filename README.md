@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://rabie3.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-rabie3.me-58a6ff?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-rabie3.me-white?style=flat-square&labelColor=58a6ff&color=58a6ff"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdelrhman-rabie/" target="_blank">
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=flat-square&color=58a6ff&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanRabie3&style=flat-square&color=58a6ff&label=Profile%20Views"/>
 </div>
 
 ---
