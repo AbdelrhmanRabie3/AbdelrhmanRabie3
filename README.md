@@ -74,11 +74,17 @@ const abdelrhman = {
       <img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,materialui,html&theme=dark"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
     </td>
     <td align="center" width="33%">
@@ -86,14 +92,20 @@ const abdelrhman = {
       <b>⚙️ Backend & DB</b><br/>
       <img src="https://img.shields.io/badge/─────────────────-0d1117?style=flat-square"/>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logoColor=white"/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/LiveKit-E84393?style=flat-square&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/RBAC-58a6ff?style=flat-square&logoColor=white"/>
     </td>
     <td align="center" width="33%">
@@ -104,9 +116,13 @@ const abdelrhman = {
       <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma&theme=dark"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/Salla_Platform-00C853?style=flat-square&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white"/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      &nbsp;
       <img src="https://img.shields.io/badge/MVC_Architecture-58a6ff?style=flat-square&logoColor=white"/>
     </td>
   </tr>
