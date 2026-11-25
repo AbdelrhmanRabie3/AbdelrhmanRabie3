@@ -174,7 +174,7 @@ const abdelrhman: Developer = {
 
 ### 📊 Sales Hero
 
-<a href="https://sales-hero-fe.vercel.app">
+<a href="https://trysaleshero.com/ar">
   <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-28A745?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
