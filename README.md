@@ -279,6 +279,117 @@ const abdelrhman: Developer = {
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛒 Qusah Store
+
+<a href="https://qusahstore.com/">
+  <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-28A745?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br/>
+
+> 🏠 Custom Salla theme built from scratch on the Twilight engine — a full Arabic/RTL storefront for a Saudi household-goods retailer.
+
+<div align="center">
+
+![Salla](https://img.shields.io/badge/-Salla-004956?style=flat-square)
+![Twilight](https://img.shields.io/badge/-Twilight_Engine-5E5CE6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ✨ Bareq
+
+<a href="https://bareq.sa/">
+  <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-28A745?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br/>
+
+> 🧼 Salla storefront for one of Saudi Arabia's leading cleaning-product brands, with custom Twilight theme work tuned for mobile-first Arabic shoppers.
+
+<div align="center">
+
+![Salla](https://img.shields.io/badge/-Salla-004956?style=flat-square)
+![Twilight](https://img.shields.io/badge/-Twilight_Engine-5E5CE6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧻 Latafa
+
+<a href="https://latafa.sa/">
+  <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-28A745?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br/>
+
+> 🎁 Custom Salla Twilight theme for a Saudi tissue manufacturer — mega-menu, redesigned product card, UGC rails, and a guess-and-win discount popup.
+
+<div align="center">
+
+![Salla](https://img.shields.io/badge/-Salla-004956?style=flat-square)
+![Twilight](https://img.shields.io/badge/-Twilight_Engine-5E5CE6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧦 Nsmat
+
+<a href="https://nsmat.sa/">
+  <img src="https://img.shields.io/badge/🟢_LIVE_DEMO-28A745?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br/>
+
+> 🛍️ Custom Salla Twilight theme for a Saudi sock brand — product card with inline size and colour pickers, per-pair pricing, and a slide-out cart drawer.
+
+<div align="center">
+
+![Salla](https://img.shields.io/badge/-Salla-004956?style=flat-square)
+![Twilight](https://img.shields.io/badge/-Twilight_Engine-5E5CE6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <br/>
